@@ -8,11 +8,8 @@ For iOS Developers: View all system colors that vary depending on the iOS trait 
 - View is of list of system colors.
 - Web link to Human Interface Guidelines.
 
-*Example  (shown in Regular mode)*
-<img src="GitHub-Images/RegularMode.png" width="200">
-
-*Example  (shown in Dark mode)*
-<img src="GitHub-Images/DarkMode.png" width="200">
+*Example  (shown in Light and Dark modes)*
+<img src="GitHub-Images/LightDark.png" width="600">
 
 **Technical Info:** \
 Xcode project written in Swift 5\
