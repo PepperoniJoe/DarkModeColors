@@ -24,6 +24,7 @@
 		939267B524902DFE00D06461 /* DarkMode.png in Resources */ = {isa = PBXBuildFile; fileRef = 939267B224902DFD00D06461 /* DarkMode.png */; };
 		939267B624902DFE00D06461 /* RegularMode.png in Resources */ = {isa = PBXBuildFile; fileRef = 939267B324902DFD00D06461 /* RegularMode.png */; };
 		939267B724902DFE00D06461 /* ScreenShot.png in Resources */ = {isa = PBXBuildFile; fileRef = 939267B424902DFE00D06461 /* ScreenShot.png */; };
+		939267B92490305900D06461 /* LightDark.png in Resources */ = {isa = PBXBuildFile; fileRef = 939267B82490305900D06461 /* LightDark.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		939267B224902DFD00D06461 /* DarkMode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DarkMode.png; sourceTree = "<group>"; };
 		939267B324902DFD00D06461 /* RegularMode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RegularMode.png; sourceTree = "<group>"; };
 		939267B424902DFE00D06461 /* ScreenShot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScreenShot.png; sourceTree = "<group>"; };
+		939267B82490305900D06461 /* LightDark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LightDark.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +144,7 @@
 			isa = PBXGroup;
 			children = (
 				939267B224902DFD00D06461 /* DarkMode.png */,
+				939267B82490305900D06461 /* LightDark.png */,
 				939267B324902DFD00D06461 /* RegularMode.png */,
 				939267B424902DFE00D06461 /* ScreenShot.png */,
 			);
@@ -210,6 +213,7 @@
 				939267B624902DFE00D06461 /* RegularMode.png in Resources */,
 				9327A70324902370000DB868 /* LaunchScreen.storyboard in Resources */,
 				9327A6E724901F78000DB868 /* Assets.xcassets in Resources */,
+				939267B92490305900D06461 /* LightDark.png in Resources */,
 				9327A7072490269D000DB868 /* README.md in Resources */,
 				939267B724902DFE00D06461 /* ScreenShot.png in Resources */,
 				9327A7052490247E000DB868 /* WebView.storyboard in Resources */,
