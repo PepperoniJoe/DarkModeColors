@@ -1,23 +1,18 @@
 # DarkModeColors
 For iOS Developers: View all system colors that vary depending on the iOS trait environment. Check how each color looks in dark and regular modes. 
 
-<img src="GitHub-Images/Screen.png" width="200">
 
-**Description:** \
-Provide a 1024x1024 pixel image to generate the required Apple app icon sets for the various device types. \
-Provide a 3x pixel image to generate 1x, 2x, 3x image set i.e. provide a 300x300 pixel image for a 100x100 point image set. 
-
-<img src="GitHub-Images/ScreenShot.png" width="800">
+<img src="GitHub-Images/ScreenShot.png" width="300">
 
 **Features:** 
 - View is of list of system colors.
 - Web link to Human Interface Guidelines.
 
 *Example  (shown in Regular mode)*
-<img src="GitHub-Images/RegularMode.png" width="100">
+<img src="GitHub-Images/RegularMode.png" width="200">
 
 *Example  (shown in Dark mode)*
-<img src="GitHub-Images/DarkMode.png" width="100">
+<img src="GitHub-Images/DarkMode.png" width="200">
 
 **Technical Info:** \
 Xcode project written in Swift 5\
