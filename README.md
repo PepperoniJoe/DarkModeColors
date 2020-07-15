@@ -26,6 +26,11 @@ Requires Xcode 11
 3. Build and run the app in Xcode. 
 4. Use Similator menu "Toggle Appearance" or [Shift] [Command] [A] to switch modes. 
 
+**See Also:** \
+[Quickies - a variety of example iOS apps](https://github.com/PepperoniJoe/Quickies)\
+ [Make Icons Swiftly - used to generate app icon sets
+ ](https://github.com/PepperoniJoe/Make-Icons-Swiftly)
+
 **Author:** \
 Marcy Vernon [@MarcyVernon](https://twitter.com/MarcyVernon)
 
